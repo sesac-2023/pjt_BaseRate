@@ -20,7 +20,6 @@ sentiment analysis 를 진행해 context에 대한 기준금리 변동의 영향
 
 데이터 EDA및 전처리
 
-![Alt text](image.png)
 
 -중복,null값 데이터 처리, 정규표현식 전처리
 
